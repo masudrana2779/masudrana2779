@@ -456,8 +456,8 @@
 @media (max-width: 990px) and (min-width: 800px) {
      
     .hero_warp .banner_content .banner_title {
-        font-size: 100px;
-        line-height: 85px;
+        font-size: 40px;
+        line-height: 50px;
     } 
     .portfolio_item .exp {
         right: -80px;
@@ -470,9 +470,16 @@
 @media (max-width: 767px) {
     
     .hero_warp .banner_content .banner_title {
-        font-size: 100px;
-        line-height: 85px;
+        font-size: 36px;
+        line-height: 15px;
     } 
+
+    header.header .navbar a.nav-link.buy_btn {
+        display: inline-block;
+        padding: 5px 20px;
+        font-size: 14px;
+    }
+
     .hero_warp .banner_content .banner_title br {
         display: none;
     }

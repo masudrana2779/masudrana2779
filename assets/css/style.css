@@ -281,6 +281,28 @@ header.header .navbar .logo .logo_text:before {
   height: 100%;
   color: #979591;
 }
+header.header .navbar a.nav-link.buy_btn {
+  letter-spacing: 2px;
+  border: 1px solid #f6f7fb;
+  text-transform: uppercase;
+  padding: 7px 42px;
+  margin-left: 40px;
+  background-color: transparent;
+  background-image: -o-linear-gradient(315deg, #ff3366 50%, transparent 50%);
+  background-image: linear-gradient(135deg, #ff3366 50%, transparent 50%);
+  background-repeat: no-repeat;
+  -webkit-transition: all 1s;
+  -o-transition: all 1s;
+  transition: all 1s;
+  background-size: 300% 300%;
+  background-position: 0% 0%;
+  border-color: #ff3366;
+  color: #fff;
+  font-weight: 600;
+}
+header.header .navbar a.nav-link.buy_btn i {
+  margin-right: 10px;
+}
 header.header .navbar .select_lang {
   margin-right: 58px;
 }

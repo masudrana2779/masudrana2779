@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 Portfolio : [masudrana2779.github.io](https://masudrana2779.github.io/)
 
      
-**Languages and Tools:** </br></br>
+## 👨‍💻 Skills & Experience:
+**Languages and Tools:**  </br></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -76,7 +77,7 @@ Portfolio : [masudrana2779.github.io](https://masudrana2779.github.io/)
 
 <p>I am a Full Stack developer, experience with web applications and building websites, who is passionate about making error-free websites with 100% client satisfaction. I have professional experience working with React, typeScript, MongoDB, Node, Express and JavaScript. I am graduate honours in Zoology. In my free time, I study new technologies. I am both driven and self-motivated. <p/>
 
-## 👨‍💻 Skills & Experience:
+<!-- ## 👨‍💻 Skills & Experience:
 <p align="left">
   <a style="margin: 5px" href="https://www.w3.org/html/" target="_blank">
     <img
@@ -300,7 +301,7 @@ Portfolio : [masudrana2779.github.io](https://masudrana2779.github.io/)
 </p>
 
 <br/>
-<br/>
+<br/> -->
 
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana2779&layout=compact) 

@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   🌱 2023 Goals: React, Next.js, typeScript, Webflow, Express.js, Node, Mongo, Next.js, Express.js
 </p><br/>
 
-![Profile views](https://gpvc.arturio.dev/masudrana2779)
 
 
      
@@ -69,6 +68,8 @@ Here are some ideas to get you started:
 </details>
    <br />  
 
+
+![Profile views](https://gpvc.arturio.dev/masudrana2779)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudrana2779&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 

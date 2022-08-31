@@ -30,10 +30,12 @@ Here are some ideas to get you started:
 </p><br/>
 
 
+Portfolio : [masudrana2779.github.io](https://masudrana2779.github.io/)
 
      
 **Languages and Tools:** </br></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -53,9 +55,9 @@ Here are some ideas to get you started:
      
   <summary>:zap: GitHub Stats</summary>
    <br />
-   <img  src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PaponAhasan&theme=tokyonight&hide_border=true" width="49%" >
-<!--    <img  alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=radical" /> -->
+   <img  src="https://github-readme-stats.vercel.app/api?username=masudrana2779&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=masudrana2779&theme=tokyonight&hide_border=true" width="49%" >
+<!--    <img  alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=masudrana2779&show_icons=true&hide_border=true&theme=radical" /> -->
 
 </details>
  
@@ -63,7 +65,7 @@ Here are some ideas to get you started:
      
   <summary>:zap: Most Used Languages</summary>
   <br />
-  <img  alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan&theme=radical" />
+  <img  alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana2779&theme=radical" />
 
 </details>
    <br />  

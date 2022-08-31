@@ -32,6 +32,19 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/masudrana2779)
 
 
+
+</details>
+ 
+<details>
+     
+  <summary>:zap: Most Used Languages</summary>
+  <br />
+  <img  alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan&theme=radical" />
+
+</details>
+   <br />  
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudrana2779&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 

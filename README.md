@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/masudrana2779)
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudrana2779&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+
 <p>I am a Full Stack developer, experience with web applications and building websites, who is passionate about making error-free websites with 100% client satisfaction. I have professional experience working with React, typeScript, MongoDB, Node, Express and JavaScript. I am graduate honours in Zoology. In my free time, I study new technologies. I am both driven and self-motivated. <p/>
 
 ## 👨‍💻 Skills & Experience:

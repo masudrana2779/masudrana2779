@@ -305,6 +305,8 @@ Portfolio : [masudrana2779.github.io](https://masudrana2779.github.io/)
 
 ![GitHub metrics](https://metrics.lecoq.io/masudrana2779)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masudrana2779)  
+
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana2779&layout=compact) 
 

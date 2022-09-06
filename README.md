@@ -303,6 +303,8 @@ Portfolio : [masudrana2779.github.io](https://masudrana2779.github.io/)
 <br/>
 <br/> -->
 
+![GitHub metrics](https://metrics.lecoq.io/masudrana2779)
+
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudrana2779&layout=compact) 
 
